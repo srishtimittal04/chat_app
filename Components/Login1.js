@@ -3,7 +3,7 @@ import { View, Text, TextInput, TouchableOpacity, StyleSheet, StatusBar, NativeM
 
 var ApplozicChat = NativeModules.ApplozicChat;
 
-export default class LoginForm extends Component{
+export default class Login extends Component{
 
   constructor(props){
     super(props);
