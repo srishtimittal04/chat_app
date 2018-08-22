@@ -1,14 +1,14 @@
 [
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/applozic_arrow_down.png",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/drawable-ldpi-v4/applozic_arrow_down.png"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/drawable-ldpi-v4/applozic_arrow_down.png"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_phone_missed_white_24dp.png",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/drawable-ldpi-v4/ic_phone_missed_white_24dp.png"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/drawable-ldpi-v4/ic_phone_missed_white_24dp.png"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_videocam_white_24px.png",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/drawable-ldpi-v4/ic_videocam_white_24px.png"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/drawable-ldpi-v4/ic_videocam_white_24px.png"
     }
 ]

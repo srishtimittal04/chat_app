@@ -17,27 +17,27 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_rich_message_single_text_item.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_rich_message_single_text_item.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_rich_message_single_text_item.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_attachment_preview_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_attachment_preview_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_attachment_preview_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/applozic_message_info.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/applozic_message_info.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/applozic_message_info.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/attach_photo_popup_window_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/attach_photo_popup_window_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/attach_photo_popup_window_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_contact_share_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_contact_share_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_contact_share_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_message_sender_view.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_message_sender_view.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_message_sender_view.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
@@ -49,7 +49,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_list_item_title_navigation.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_list_item_title_navigation.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_list_item_title_navigation.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
@@ -61,11 +61,11 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_message_template_item.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_message_template_item.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_message_template_item.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/activity_contact.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/activity_contact.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/activity_contact.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
@@ -81,19 +81,19 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_rich_message_item.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_rich_message_item.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_rich_message_item.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mtmainactivity_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mtmainactivity_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mtmainactivity_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/applozic_groups_list_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/applozic_groups_list_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/applozic_groups_list_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_multi_attachment_activity.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_multi_attachment_activity.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_multi_attachment_activity.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
@@ -101,7 +101,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/conversation_scheduler.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/conversation_scheduler.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/conversation_scheduler.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
@@ -109,11 +109,11 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_rich_message_list_item.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_rich_message_list_item.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_rich_message_list_item.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_message_list.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_message_list.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_message_list.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
@@ -137,7 +137,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_recorder_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_recorder_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_recorder_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
@@ -165,11 +165,11 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_attachment_gridview_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_attachment_gridview_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_attachment_gridview_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/contact_users_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/contact_users_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/contact_users_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -177,7 +177,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_hotel_details_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_hotel_details_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_hotel_details_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
@@ -189,7 +189,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_individual_multimedia_option_item.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_individual_multimedia_option_item.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_individual_multimedia_option_item.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/crop_image_activity.xml",
@@ -205,23 +205,23 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_booking_details_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_booking_details_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_booking_details_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_message_row_view.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_message_row_view.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_message_row_view.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/contact_select_list_item.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/contact_select_list_item.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/contact_select_list_item.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_guest_details_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_guest_details_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_guest_details_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_received_message_list_view.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_received_message_list_view.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_received_message_list_view.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
@@ -233,15 +233,15 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_service_disconnection_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_service_disconnection_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_service_disconnection_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_audio_message_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_audio_message_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_audio_message_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/reply_message_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/reply_message_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/reply_message_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
@@ -253,19 +253,19 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/contact_list_fragment.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/contact_list_fragment.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/contact_list_fragment.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/activity_payment.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/activity_payment.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/activity_payment.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobiframework_custom_spinner.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobiframework_custom_spinner.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobiframework_custom_spinner.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/applozic_document_attachment.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/applozic_document_attachment.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/applozic_document_attachment.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
@@ -273,7 +273,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_attchment_icons_view.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_attchment_icons_view.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_attchment_icons_view.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
@@ -305,23 +305,23 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_chat_location_view.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_chat_location_view.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_chat_location_view.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/activity_applozic_location.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/activity_applozic_location.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/activity_applozic_location.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/channel_info_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/channel_info_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/channel_info_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_activity_profile.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_activity_profile.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_activity_profile.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/applozic_context_based_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/applozic_context_based_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/applozic_context_based_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
@@ -329,11 +329,11 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/channel_create_activty_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/channel_create_activty_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/channel_create_activty_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_sent_message_list_view.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_sent_message_list_view.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_sent_message_list_view.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
@@ -349,7 +349,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_image_full_screen.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_image_full_screen.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_image_full_screen.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
@@ -357,15 +357,15 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_date_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_date_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_date_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/sliding_pane.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/sliding_pane.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/sliding_pane.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/update_channel_name_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/update_channel_name_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/update_channel_name_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
@@ -373,7 +373,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/people_activity.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/people_activity.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/people_activity.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
@@ -385,7 +385,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/contact_select_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/contact_select_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/contact_select_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
@@ -397,15 +397,15 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/applozic_custom_message_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/applozic_custom_message_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/applozic_custom_message_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/user_profile_fragment_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/user_profile_fragment_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/user_profile_fragment_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/applozic_channel_custom_message_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/applozic_channel_custom_message_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/applozic_channel_custom_message_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
@@ -413,11 +413,11 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/contact_list_item.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/contact_list_item.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/contact_list_item.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_rich_message_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_rich_message_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_rich_message_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
@@ -429,7 +429,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/quickconversion_activity.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/quickconversion_activity.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/quickconversion_activity.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
@@ -437,11 +437,11 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_message_list_header_footer.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_message_list_header_footer.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_message_list_header_footer.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_footer_view_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_footer_view_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_footer_view_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
@@ -453,7 +453,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_conversation_item_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_conversation_item_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_conversation_item_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
@@ -461,7 +461,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_attachment_gridview_item.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_attachment_gridview_item.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_attachment_gridview_item.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
@@ -477,11 +477,11 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/al_conversation_fragment.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/al_conversation_fragment.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/al_conversation_fragment.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/applozic_call_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/applozic_call_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/applozic_call_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
@@ -493,7 +493,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/mobicom_multimedia_fragment_layout.xml",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/layout/mobicom_multimedia_fragment_layout.xml"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/layout/mobicom_multimedia_fragment_layout.xml"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",

@@ -4,15 +4,14 @@ import {
   Text,
   View
 } from 'react-native';
-import Login from './Components/Login1';
+import Convo from './Components/convo';
 
 type Props = {};
 export default class App extends Component<Props> {
   render() {
     return (
       <View>
-    //  <Text>Login:</Text>
-        <Login/>
+        <Convo/>
       </View>
     );
   }

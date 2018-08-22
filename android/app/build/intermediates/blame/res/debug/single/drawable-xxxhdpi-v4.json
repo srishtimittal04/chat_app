@@ -5,7 +5,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/applozic_arrow_down.png",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/drawable-xxxhdpi-v4/applozic_arrow_down.png"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/drawable-xxxhdpi-v4/applozic_arrow_down.png"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png",
@@ -36,16 +36,16 @@
         "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
     },
     {
+        "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png",
         "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/group_2.png",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/drawable-xxxhdpi-v4/group_2.png"
-    },
-    {
-        "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/drawable-xxxhdpi-v4/group_2.png"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
@@ -73,7 +73,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_phone_missed_white_24dp.png",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/drawable-xxxhdpi-v4/ic_phone_missed_white_24dp.png"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/drawable-xxxhdpi-v4/ic_phone_missed_white_24dp.png"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png",
@@ -97,7 +97,7 @@
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/ic_videocam_white_24px.png",
-        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.8.6/res/drawable-xxxhdpi-v4/ic_videocam_white_24px.png"
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/drawable-xxxhdpi-v4/ic_videocam_white_24px.png"
     },
     {
         "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",

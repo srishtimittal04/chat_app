@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/release/menu/attachment_menu.xml",
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/menu/attachment_menu.xml"
+    },
+    {
+        "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/release/menu/mobicom_main_menu.xml",
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/menu/mobicom_main_menu.xml"
+    },
+    {
+        "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/release/menu/group_create_menu.xml",
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/menu/group_create_menu.xml"
+    },
+    {
+        "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/release/menu/menu_contact.xml",
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/menu/menu_contact.xml"
+    },
+    {
+        "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/release/menu/channel_menu_option.xml",
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/menu/channel_menu_option.xml"
+    },
+    {
+        "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/release/menu/mobicom_basic_menu_for_normal_message.xml",
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/res/menu/mobicom_basic_menu_for_normal_message.xml"
+    },
+    {
+        "merged": "/home/srishti/pro/android/app/build/intermediates/res/merged/release/menu/crop_image_menu.xml",
+        "source": "/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.7.0/res/menu/crop_image_menu.xml"
+    }
+]

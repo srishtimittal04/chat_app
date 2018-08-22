@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applozic.communication.message:mobicomkit-5.9.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../node_modules/react-native-applozic-chat/android/build/intermediates/exploded-aar/com.applozic.communication.message/mobicomkit/5.9.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../node_modules/react-native-applozic-chat/android/build/intermediates/exploded-aar/com.applozic.communication.message/mobicomkit/5.9.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applozic.communication.message/mobicomkit/5.9.1/96c8d0abf19655f2e794778268a3783b348ca96f/mobicomkit-5.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

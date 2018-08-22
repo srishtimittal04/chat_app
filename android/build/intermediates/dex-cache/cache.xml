@@ -3,30 +3,39 @@
 
     <item
         is-multidex="false"
-        jar="/home/srishti/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.1.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_0acafbcf0d390d5536edc8ae2865cb884443ef59.jar" />
+        revision="27.0.1"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-27.1.1_7710b49fd76ad204190730e84586fb48808de56d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_fd578b80f3d42e7cd0dec25746681b741ad48c6f.jar" />
+        revision="27.0.1"
+        sha1="bfc967828daffc35ba01c9ee204d98b664930a0f">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.2_46496c3b326557735152cddb6c6c8d7ccddff450.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.7.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_bc0ddbdfc2ae8124b88c195976c2ff374ff85a3c.jar" />
+        revision="27.0.1"
+        sha1="2e62a28e7a8ebe7b2ae508c4ef6666a2d2a606ab">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.theartofdev.edmodo-android-image-cropper-2.7.0_46ba3f56430fce7acd9f8065a0dff4d26cba5513.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-15.0.1_6ce58a9818bfb40f18d7b300b487467caf6ce272.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,12 +48,147 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/design/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ae6d33f37143b08cd8c477c9e348d61ef7ed7eba">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-27.1.1_38a5bb3332e40ebc302db870f1fc2a2b24a5a914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/pro/react-native-applozic-chat/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="5124b23506599aa099d2e51b194027f5414fabb5">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/pro-react-native-applozic-chat-unspecified_ee1855196c1b2bd121de47791b7e9a4edb217a86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-27.1.1_81e01ea375ed5677cb0654e41df981ed5f722a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-27.1.1_888fd95a2c4be05ac7cb79996cf01b415e69263d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-measurement-connector/16.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f9148af2391a1288519f4f1d38da060c4a640e85">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-measurement-connector-16.0.0_9464856440d642755bff3702566a33044e4f853c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_8533cde33156cf7e58d63ee8f18bde4d8d546cb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_f18c279646b149439b2f3b75d031a33ed01f0c5e.jar" />
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c9d32dda7ead97d5a10058d86a96a48e91cc628a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="182370a4a0bba7903c6ff2cb7b6ac21ca4a4bf89">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.1.2_6189ddfc60daeac2c57b5947c415a101773fe1ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_92a6859c9a36b964ba85473c75887840c8685480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c9d32dda7ead97d5a10058d86a96a48e91cc628a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.mobiframework/mobicommons/5.9.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d6e141e4b99930e309febcb02749d98ab38fad86">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.applozic.mobiframework-mobicommons-5.9.1_5a024188fd0b877f0a5daf6b550ce88afea930d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_b1bd17d20b2f10a8b5008233fbde5f2aa82f2468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_bc0ddbdfc2ae8124b88c195976c2ff374ff85a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/common-1.1.0_fae1b0bc0fb966910f9195b26aa5325ed75f9347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-stats/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-stats-15.0.1_b692b9bc1f893d0371e0db0580fdd8e848e3a38e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_92a6859c9a36b964ba85473c75887840c8685480.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +201,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_47eed0836a569c0fca10606c4ef2b642f4e0219f.jar" />
+        revision="27.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_cc8aa938418d03efbab2de1d7a49dbd356df6422.jar" />
     </item>
     <item
         is-multidex="false"
@@ -78,18 +222,225 @@
         jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
         jumboMode="false"
         optimize="true"
+        revision="27.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_d078275121b440a4d483d0807a7d901e2826ea28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_3a2974cd3fa404e300f58a6cc24e9ad27e5298e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/android.arch.core/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/android.arch.core-runtime-1.1.0_86b80d914bd63ba0039cf1e0ffb566a5b8d134fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/16.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="875bf2a968184594896f153b02935021c6a3ceee">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-16.2.0_6b60ca8263b4550e883101bfee799ddce91167e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_b6ccc1c03e4b60cb2f66290bba4cc1b3b2a795d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_599c5d83e73ea9da68eaa7a726b15574f9f86690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="88c68e5ef7c5ace393d014c9ec5fe736b1ca55cf">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-27.1.1_7689f750c7fd6bb5367589ebcb37bdd950161e2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/16.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0fbef528093d3d19b229116b683bd2a66d4aeae1">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-16.0.0_ee1f44d5488a0a42e6016304b4f5cf8adb5c371c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4d2b8ad415048e88b41ba4afcaafe36150e69b8c">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-27.1.1_2e5067999f104a913f184dad8382fc7d5cf27b40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-15.0.1_e27a11922a918486e54e084dd756c0d8651cf493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/transition/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="7038c6d960d3fe26fd41bc509f256c9692d886ce">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-27.1.1_15eccd328daa5026e179c8e93c5cf3f61f697d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_3a2974cd3fa404e300f58a6cc24e9ad27e5298e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f645ed69d595b24d4cf8b3fbb64cc505bede8829">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/gson-2.8.5_7b3df31da8a204dd0171a4925f045283c0df611f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places-placereport/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1df2a23336d956cde542040263b350c7bd11f3f7">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-placereport-15.0.1_237e9b61a77f80702930509fd0fcc20fd22e8ee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-27.1.1_7b3f1474716475b716900c9dd9f5ed1fd74924f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e70a3fed299d84cd868614e11021664d72b8e488">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.2.0_67ae2d8ca2ac1cd1a8a882bcfef918dc33a1334c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_865ab33f4945d402aeb2ae9ef71e395d08bf91ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.1.0_7bd88e73be831f661b95e44799b12a57046b641e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_031895e786827cddf15f6f5f53c8f005172fc92f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid-interop/16.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2a69972573cb7e5cc6b8652bacf981e82b68ff71">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-interop-16.0.0_204cc6a4b1d82fee5612deb06dd42fda57c973a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="22bd41f76fa5c015d05e62066ba7f45bfd5124a9">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-15.0.1_c46065bf3cdd0e5d12108b3101c9269844c09c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.7.1/796c0bf0a61141278c4bc32de2b92e6eb7fa8b1a/annotations-4.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="796c0bf0a61141278c4bc32de2b92e6eb7fa8b1a">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/annotations-4.7.1_5de2e026d8e4f48da3c845b529dcf2932bca6ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
         revision="23.0.1"
         sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
         <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_d078275121b440a4d483d0807a7d901e2826ea28.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.message/mobicomkit/5.9.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_550b8ff13c13c396625b63daaa6874c7a4254cf2.jar" />
+        revision="27.0.1"
+        sha1="3fda21fe784de053daf2d5b4d5915d816b00af05">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.applozic.communication.message-mobicomkit-5.9.1_4854abfa99a17df2714cdcbc54622c776fe12612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_facc9d21d1cc8b4597d37553f7ce984bcd2fee59.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,30 +453,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_c9d32dda7ead97d5a10058d86a96a48e91cc628a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_031895e786827cddf15f6f5f53c8f005172fc92f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_956fdbab6067e567d707d2d4c6a6396818691011.jar" />
+        revision="27.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_bc0ddbdfc2ae8124b88c195976c2ff374ff85a3c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,6 +471,33 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/livedata-core/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-livedata-core-1.1.0_94f3883d9bc85a03dd6e9071738d1ebcc4b3157f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="8a6536b4f43a7bb96fca7d3fc7c05095040fd72b">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-15.0.1_460ec131d45c4bdbbb617d6801ac85bd25b3c70d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.1.1/6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5/org.eclipse.paho.android.service-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.1.1_bcba11bfadcf9eaba37605695f70439513dd0437.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
@@ -147,12 +507,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_3a2974cd3fa404e300f58a6cc24e9ad27e5298e6.jar" />
+        revision="27.0.1"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/support-annotations-27.1.1_0dfe8d0591b85e78238b23b0a44056bf05304b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_956fdbab6067e567d707d2d4c6a6396818691011.jar" />
     </item>
     <item
         is-multidex="false"
@@ -174,21 +543,192 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.github.bumptech.glide/glide/4.7.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_66537b1a0c8302190eb1941bdd174c7762c7dd8b.jar" />
+        revision="27.0.1"
+        sha1="6980ea27453d2bb99d8a484d359442ec6b1fe28c">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.github.bumptech.glide-glide-4.7.1_954930dd82d1c9fcbcabb85237c9b9ba15010147.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_92a6859c9a36b964ba85473c75887840c8685480.jar" />
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_fd578b80f3d42e7cd0dec25746681b741ad48c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-27.1.1_bc4c26b869e32762f16ee5887373bd612eb3ff6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4798b2c2dd1fa53176696fa416890d27acbf5617">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-27.1.1_08f212795d30762057e6effbc17ac9f2767ce518.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/exifinterface/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="791ae2023f98dca602015cd1661accbd4590ed03">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-exifinterface-27.1.1_4d3e211429b0053f959f75ea7617309fccb78734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_550b8ff13c13c396625b63daaa6874c7a4254cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_fd578b80f3d42e7cd0dec25746681b741ad48c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.2.0/d9496013da5936bf88f797290449d297d371062b/org.eclipse.paho.client.mqttv3-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d9496013da5936bf88f797290449d297d371062b">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.2.0_7c487bf3ef416255827a9eaf3e1a5c31262d72ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_031895e786827cddf15f6f5f53c8f005172fc92f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/15.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-15.0.1_faef5a32030d02b1d80222e3d667eeada46fcbac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.7.1/21e6054c134c7f5c435ab7635984f39c5375083e/disklrucache-4.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="21e6054c134c7f5c435ab7635984f39c5375083e">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/disklrucache-4.7.1_8dbad6c454e6943fa69861762ef49e457134d3c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_956fdbab6067e567d707d2d4c6a6396818691011.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.applozic.communication.uiwidget/mobicomkitui/5.9.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b77bf779cc6b5cec6445ebe98be59e0031d713be">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.applozic.communication.uiwidget-mobicomkitui-5.9.1_f8b3a4e06f448e36f047a8c6aecf69157e01b084.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7e73efac5efe920d754f8e5dd9f1ca9a3f03e608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_be3a672e9d1b8351a0b32b83da3635f6511b35b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.github.bumptech.glide/gifdecoder/4.7.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="221de83c08ed1502286513b4d472d256341e8839">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.github.bumptech.glide-gifdecoder-4.7.1_0446ad2ae4ebcfdd1bc961a8c7f2a68b7d892d4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-27.1.1_108ed2d6a15171fd1b8b8a052d5f4e2b9b9798ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-27.1.1_f35d613b8589bb0b0475bd9d01ba38c9d77e0df1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_550b8ff13c13c396625b63daaa6874c7a4254cf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/17.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="0b5a871450ec57f19c1b8e9e14899849d6d5bdd2">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-17.1.0_bc7dafb5c55a1868f65d408cb213db26e6c6a112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/srishti/pro/android/app/build/intermediates/exploded-aar/android.arch.lifecycle/viewmodel/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/home/srishti/pro/android/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-viewmodel-1.1.0_3b8969c116c7e37a81c2d050c2a5bc8d0eb06c31.jar" />
     </item>
 
 </items>
