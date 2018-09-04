@@ -1,79 +1,99 @@
 import React, {Component} from 'react';
-import { View, Text, TextInput, TouchableOpacity, StyleSheet, StatusBar, NativeModules, FlatList, ScrollView} from 'react-native';
+import { View, Text, Image, TextInput, TouchableHighlight, StyleSheet, StatusBar, NativeModules, FlatList, ScrollView, DeviceEventEmitter} from 'react-native';
 
 var ApplozicChat = NativeModules.ApplozicChat;
 
 export default class Convo extends Component{
+  static navigationOptions={
+    title:'Conversation list'
+  };
 
   constructor(props){
     super(props);
+    var params=this.props.navigation.state.params.isLogin;
     this.state = {
       userId : '',
       password: '',
       email: '',
       phoneNumer: '',
       displayName: '',
-      loggedIn: 'false',
+      loggedIn: params,
       title: 'Login/SignUp',
-      messages: []
+      messages: [
+//        {name: 'abc',
+//        message: 'hlo',}
+      ]
     };
-    this.logInUser = this.logInUser.bind(this);
     this.isUserlogIn = this.isUserLogIn.bind(this);
+    this.getMessage = this.getMessage.bind(this);
+    this.realTimeUpdate=this.realTimeUpdate.bind(this);
   }
 
   componentDidMount(){
+    console.log("list to be displayed");
     this.isUserLogIn();
-    if(this.state.loggedIn){
-      alert("e4");
-      ApplozicChat.getLatestMessageList({'isScroll' : 'true'}, (error, response) => {
-            if(error){
-              alert("e5")
-                console.log("Reytum error : " + JSON.stringify(error));
-            }else{
-                alert("e6");
-                var messageList = JSON.parse(response);  //this will be array of messages
-                this.setState({messages:messageList});
-            }
-          });
+    console.log("b"+this.state.loggedIn);
+    if(this.state.loggedIn==='true'){
+      alert("e5");
+        console.log("check3");
+      this.getMessage();
       }
-  }
 
-  logInUser(){
-//    alert("err1");
-    ApplozicChat.login({
-                  'userId': this.state.userId,
-                  'email': this.state.email,
-                  'contactNumber': this.state.phoneNumber,
-                  'displayName': this.state.displayName,
-                  'password': this.state.password,
-                  'authenticationTypeId' : 1,
-                  'applicationId' : 'applozic-sample-app',
-                  'deviceApnsType' : 0
-              }, (error, response) => {
-                if(error){
-//                    alert("err2");
-                    console.log("error " + error);
-                }else{
-                  this.setState({loggedIn:'true'});
-                  console.log("response::" + response);
-//                  alert("err3");
-                }
-              })
-      }
+      ApplozicChat.registerListener((response) => {
+           console.log("Reytum register UI response : " + JSON.stringify(response));
+        });
+         this.realTimeUpdate();
+  }
+  getMessage(){
+    ApplozicChat.getLatestMessageList({'isScroll' : 'true'}, (error, response) => {
+          if(error){
+            alert("e6")
+              console.log("Reytum error : " + JSON.stringify(error));
+          }else{
+              alert("e7");
+              alert(response);
+              var messageList = JSON.parse(response);  //this will be array of messages
+              this.setState({messages:messageList});
+              alert("msg"+this.state.messages[1]);
+          }
+        });
+  }
 
   isUserLogIn() {
       ApplozicChat.isUserLogIn((response) => {
         this.setState({loggedIn: response});
+          console.log(this.state.loggedIn);
+        console.log("check2");
       })
+      console.log("a");
+  }
+  onClickItem(item){
+    console.log("call screen");
+    this.props.navigation.navigate('ChatScreen',{'convoName':item});
+    console.log("called");
   }
 
+  componentWillUnMount()
+  {
+    ApplozicChat.unregisterListener((response) => {
+                console.log("Reytum un-register UI response : " + JSON.stringify(response));
+            });
+  }
+
+realTimeUpdate(){
+  console.log("real updating");
+  let messageSent = DeviceEventEmitter.addListener('Applozic-onMessageSent', (response) => {  //triggered when a message has been sent to applozic server
+      console.log('Reytum rec event message sent : ' + JSON.stringify(response)); //message object, update this in the current message array and display on screen
+  });
+
+ let messageRec = DeviceEventEmitter.addListener('Applozic-onMessageReceived', (response) => { //triggered when a new message is received on the device
+      console.log('Reytum rec event message received : ' + JSON.stringify(response)); //message object, update this in the current message array and display in the list
+  });
+}
+
   render(){
-    if(this.state.loggedIn){
       return(
         <View style={styles1.container}>
-          <View style={styles1.header}>
-            <Text style={styles1.h2style}>Conversation List</Text>
-          </View>
           <FlatList
             style={styles1.flatview}
             showsVerticalScrollIndicator={true}
@@ -92,15 +112,17 @@ export default class Convo extends Component{
                                 contact = null;
                                 imageUrl = channel.imageUrl;
                                 name = channel.name;
+                                item.name=name;
+                //                console.log(item.name+" "+item.message);
                      });
                        //function to get unread count for Group
-                      ApplozicChat.getUnreadCountForChannel({'groupId' :item.groupId}, (error, count) => {
-                         if(error){
-                             console.log("error ::" + error);
-                       }else{
-                            unreadCount = count;
-                          }
-                    });
+  //                    ApplozicChat.getUnreadCountForChannel({'groupId' :item.groupId}, (error, count) => {
+    //                     if(error){
+      //                       console.log("error ::" + error);
+        //               }else{
+          //                  unreadCount = count;
+            //              }
+              //      });
 
                     }else{
                       //function to get Contact object from contactId
@@ -109,12 +131,14 @@ export default class Convo extends Component{
                            imageUrl = contact.imageUrl;
                            channel = null
                            name = contact.fullName;
+                           item.name=name;
+        //                   console.log(item.name +" "+ item.message);
                    });
                       //function to get unread count for user
-                     ApplozicChat.getUnreadCountForUser( 'ak102', (error, count) => {
-                         unreadCount = count;
-                     });
-                   }
+                   //   ApplozicChat.getUnreadCountForUser( 'ak102', (error, count) => {
+                   //       unreadCount = count;
+                   //   });
+                    }
 
                     if(item.message.length){
                         message = item.message;
@@ -123,13 +147,17 @@ export default class Convo extends Component{
                     }
 
                     createdAtTime = item.createdAtTime;
+
 return(
-                   <View style={styles1.flatviewItem}>
-                      <Text>User1</Text>
+                  <TouchableHighlight onPress={()=>this.onClickItem(item.name)}>
+                    <View
+                    style={styles1.flatviewItem} key={item.name}
+                    >
                       <Image style={styles1.imageStyle} source={{uri: imageUrl}}/>
-                      <Text style={styles1.name}>{name}</Text>
+                      <Text style={styles1.name}>{item.name}</Text>
                       <Text style={styles1.messageStyle}>{message}</Text>
                     </View>
+                    </TouchableHighlight>
         )
               }
             }
@@ -138,119 +166,7 @@ return(
         </View>
       );
     }
-
-    return(
-      <View style={styles.container}>
-      <ScrollView>
-          <Text style = {styles.titleText}>Applozic </Text>
-          <Text style = {styles.baseText}>Demo App </Text>
-          <TextInput style = {styles.input}
-               autoCapitalize = "none"
-            //   onSubmitEditing = {() => this.passwordInput.focus()}
-               autoCorrect = {false}
-               keyboardType = 'default'
-               underlineColorAndroid = 'transparent'
-               returnKeyType = "next"
-               placeholder = 'User ID'
-               maxLength = {25}
-               placeholderTextColor = 'rgba(225,225,225,0.7)'
-               onChangeText = {(text) => this.setState({userId: text})}/>
-
-               <TextInput type = "email-address"
-                  style = {styles.input}
-                  placeholder = "Email"
-                  autoCapitalize = "none"
-                  keyboardType = "email-address"
-                  returnKeyType = "next"
-                  maxLength = {30}
-                  underlineColorAndroid = 'transparent'
-                  placeholderTextColor = 'rgba(225,225,225,0.7)'
-              //    value = { this.state.email}
-                  onChangeText = {email => this.setState({email})}/>
-
-               <TextInput style = { styles.input}
-                  placeholder = "Phone Number"
-                  keyboardType = "phone-pad"
-                  maxLength = {10}
-                  returnKeyType = "next"
-                  underlineColorAndroid = 'transparent'
-                  placeholderTextColor = 'rgba(225,225,225,0.7)'
-              //    value = {this.state.phoneNumber}
-                  onChangeText = {phoneNumber => this.setState({phoneNumber})}/>
-
-                  <TextInput id = "displayName"
-                     style = {styles.input}
-                     placeholder = "Display Name"
-                     keyboardType = "default"
-                     returnKeyType = "next"
-                     underlineColorAndroid = 'transparent'
-                     placeholderTextColor = 'rgba(225,225,225,0.7)'
-              //       value = {this.state.displayName}
-                     maxLength = {25}
-                     onChangeText = {displayName => this.setState({displayName})}/>
-
-          <TextInput style = {styles.input}
-              secureTextEntry={true}
-              password='true'
-              autoCapitalize = "none"
-              returnKeyType = "go"
-              maxLength = {25}
-      //        ref = {(input)=> this.passwordInput = input}
-              placeholder = 'Password'
-              underlineColorAndroid = 'transparent'
-              placeholderTextColor = 'rgba(225,225,225,0.7)'
-              onChangeText = {(text) => this.setState({password: text})}/>
-
-          <TouchableOpacity style = {styles.buttonContainer}
-              onPress = {this.logInUser}>
-              <Text  style={styles.buttonText}>{this.state.title}</Text>
-         </TouchableOpacity>
-      </ScrollView>
-      </View>
-    );
-  }
 }
-
-const styles = StyleSheet.create({
-  container: {
-//    flex:1,
-//     alignItems:'center',
-//     justifyContent:'center',
-     padding: 20,
-     backgroundColor: '#4D394B'
-    },
-    titleText: {
-        fontSize: 25,
-        fontWeight: 'bold',
-        color: '#fff',
-        marginTop: 35,
-        alignSelf: 'center'
-    },
-    baseText: {
-        fontFamily: 'Cochin',
-        color: '#fff',
-        marginBottom: 25,
-        alignSelf: 'center'
-    },
-    input:{
-        height: 40,
-        backgroundColor: 'rgba(225,225,225,0.2)',
-        marginBottom: 10,
-        padding: 10,
-        color: '#fff'
-    },
-    buttonContainer:{
-        backgroundColor: '#2980b6',
-        paddingVertical: 15,
-        marginTop: 20,
-        marginBottom: 20
-    },
-    buttonText:{
-        color: '#fff',
-        textAlign: 'center',
-        fontWeight: '700'
-    }
-});
 
 const styles1=StyleSheet.create({
   container:{
@@ -272,16 +188,16 @@ const styles1=StyleSheet.create({
   flatview: {
 //    flex:0.8,
   //  justifyContent: 'center',
-    paddingTop: 30,
+    // padding: 30,
     borderRadius: 2,
     backgroundColor: 'blue',
   },
   flatviewItem: {
   //  flex:1,
   //  justifyContent: 'center',
-    paddingTop: 30,
+    padding: 30,
     borderRadius: 2,
-    backgroundColor: 'blue',
+    backgroundColor: 'whitesmoke',
   },
   imageStyle:{
     width: 50,

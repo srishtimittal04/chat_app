@@ -4,15 +4,13 @@ import {
   Text,
   View
 } from 'react-native';
-import Convo from './Components/convo';
+import Login from './Components/login';
 
 type Props = {};
 export default class App extends Component<Props> {
   render() {
     return (
-      <View>
-        <Convo/>
-      </View>
+      this.props.navigation.navigate('Login',{'user':"abc"})
     );
   }
 }
