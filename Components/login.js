@@ -38,11 +38,11 @@ export default class Login extends Component{
     console.log("err1");
     this.isUserLogIn();
     ApplozicChat.login({
-                  'userId': 'shivam',
-                  'email': '',
-                  'contactNumber': '',
-                  'displayName': '',
-                  'password': 'shivam',
+                  'userId': this.state.userId,
+                  'email': this.state.email,
+                  'contactNumber': this.state.phoneNumber,
+                  'displayName': this.state.displayName,
+                  'password': this.state.password,
                   'authenticationTypeId' : 1,
                   'applicationId' : 'applozic-sample-app',
                   'deviceApnsType' : 0
